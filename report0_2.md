@@ -100,7 +100,7 @@ At first, the flac files have been converted to wav format.
 After that, JSON files corresponding to the train and validation datasets are created. The training and testing module use these JSON files as file-descriptor to access the data files and corresponding labels.
 
 
-##4.2. Hyperparameter tuning :
+## 4.2. Hyperparameter tuning :
 We have performed tuning on three hyperparameters : 
 1. Number of filters
 2. Kernel size
